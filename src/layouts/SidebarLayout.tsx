@@ -23,7 +23,7 @@ export default function SidebarLayout() {
       >
         <Toolbar>
           <Typography variant="h6" noWrap>
-            CRM
+            POM
           </Typography>
         </Toolbar>
       </AppBar>
@@ -50,7 +50,7 @@ export default function SidebarLayout() {
         </List>
       </Drawer>
 
-      <Box component="main" sx={{ flexGrow: 1, p: 3, ml: `${drawerWidth}px` }}>
+      <Box component="main" sx={{ flexGrow: 1, p: 3 }}>
         <Toolbar />
         <Outlet />
       </Box>
