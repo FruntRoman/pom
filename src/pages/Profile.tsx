@@ -27,7 +27,7 @@ export default function Profile() {
     ? ["Персональні дані", "Зміна паролів користувачів"]
     : ["Персональні дані"];
 
-  const handleChangeTab = (event: React.SyntheticEvent, newValue: number) => {
+  const handleChangeTab = (_: React.SyntheticEvent, newValue: number) => {
     setSelectedTab(newValue);
   };
 

@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/features/auth/authcontext.tsx","./src/features/auth/requireauth.tsx","./src/layouts/sidebarlayout.tsx","./src/mocks/auth.service.ts","./src/mocks/users.ts","./src/pages/dashboard.tsx","./src/pages/login.tsx","./src/pages/profile.tsx","./src/shared/can.ts","./src/types/auth.ts"],"version":"5.9.3"}
